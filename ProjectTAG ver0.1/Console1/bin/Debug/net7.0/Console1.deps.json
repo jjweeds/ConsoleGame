@@ -1,0 +1,31 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Console1/1.0.0": {
+        "runtime": {
+          "Console1.dll": {}
+        },
+        "resources": {
+          "en/Console1.resources.dll": {
+            "locale": "en"
+          },
+          "ko/Console1.resources.dll": {
+            "locale": "ko"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Console1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

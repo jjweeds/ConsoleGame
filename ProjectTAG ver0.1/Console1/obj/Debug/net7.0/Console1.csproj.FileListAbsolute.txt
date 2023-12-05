@@ -1,0 +1,63 @@
+C:\Users\J\source\repos\ProjectTAG\Console1\bin\Debug\net7.0\Console1.exe
+C:\Users\J\source\repos\ProjectTAG\Console1\bin\Debug\net7.0\Console1.deps.json
+C:\Users\J\source\repos\ProjectTAG\Console1\bin\Debug\net7.0\Console1.runtimeconfig.json
+C:\Users\J\source\repos\ProjectTAG\Console1\bin\Debug\net7.0\Console1.dll
+C:\Users\J\source\repos\ProjectTAG\Console1\bin\Debug\net7.0\Console1.pdb
+C:\Users\J\source\repos\ProjectTAG\Console1\obj\Debug\net7.0\Console1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\J\source\repos\ProjectTAG\Console1\obj\Debug\net7.0\Console1.AssemblyInfoInputs.cache
+C:\Users\J\source\repos\ProjectTAG\Console1\obj\Debug\net7.0\Console1.AssemblyInfo.cs
+C:\Users\J\source\repos\ProjectTAG\Console1\obj\Debug\net7.0\Console1.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\ProjectTAG\Console1\obj\Debug\net7.0\Console1.dll
+C:\Users\J\source\repos\ProjectTAG\Console1\obj\Debug\net7.0\refint\Console1.dll
+C:\Users\J\source\repos\ProjectTAG\Console1\obj\Debug\net7.0\Console1.pdb
+C:\Users\J\source\repos\ProjectTAG\Console1\obj\Debug\net7.0\Console1.genruntimeconfig.cache
+C:\Users\J\source\repos\ProjectTAG\Console1\obj\Debug\net7.0\ref\Console1.dll
+C:\Users\J\source\repos\ProjectTAG\Console1\bin\Debug\net7.0\en\Console1.resources.dll
+C:\Users\J\source\repos\ProjectTAG\Console1\bin\Debug\net7.0\ko\Console1.resources.dll
+C:\Users\J\source\repos\ProjectTAG\Console1\obj\Debug\net7.0\Console1.Languages.lang.en.resources
+C:\Users\J\source\repos\ProjectTAG\Console1\obj\Debug\net7.0\Console1.Languages.lang.ko.resources
+C:\Users\J\source\repos\ProjectTAG\Console1\obj\Debug\net7.0\Console1.csproj.GenerateResource.cache
+C:\Users\J\source\repos\ProjectTAG\Console1\obj\Debug\net7.0\en\Console1.resources.dll
+C:\Users\J\source\repos\ProjectTAG\Console1\obj\Debug\net7.0\ko\Console1.resources.dll
+C:\Users\Owner\Downloads\Me-main\Me-main\ProjectTAG ver0.2\Console1\obj\Debug\net7.0\Console1.Languages.lang.en.resources
+C:\Users\Owner\Downloads\Me-main\Me-main\ProjectTAG ver0.2\Console1\obj\Debug\net7.0\Console1.Languages.lang.ko.resources
+C:\Users\Owner\Downloads\Me-main\Me-main\ProjectTAG ver0.2\Console1\obj\Debug\net7.0\Console1.csproj.GenerateResource.cache
+C:\Users\Owner\Downloads\Me-main\Me-main\ProjectTAG ver0.2\Console1\obj\Debug\net7.0\Console1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Downloads\Me-main\Me-main\ProjectTAG ver0.2\Console1\obj\Debug\net7.0\Console1.AssemblyInfoInputs.cache
+C:\Users\Owner\Downloads\Me-main\Me-main\ProjectTAG ver0.2\Console1\obj\Debug\net7.0\Console1.AssemblyInfo.cs
+C:\Users\Owner\Downloads\Me-main\Me-main\ProjectTAG ver0.2\Console1\obj\Debug\net7.0\Console1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Downloads\Me-main\Me-main\ProjectTAG ver0.2\Console1\obj\Debug\net7.0\Console1.dll
+C:\Users\Owner\Downloads\Me-main\Me-main\ProjectTAG ver0.2\Console1\obj\Debug\net7.0\refint\Console1.dll
+C:\Users\Owner\Downloads\Me-main\Me-main\ProjectTAG ver0.2\Console1\obj\Debug\net7.0\Console1.pdb
+C:\Users\Owner\Downloads\Me-main\Me-main\ProjectTAG ver0.2\Console1\bin\Debug\net7.0\Console1.exe
+C:\Users\Owner\Downloads\Me-main\Me-main\ProjectTAG ver0.2\Console1\bin\Debug\net7.0\Console1.deps.json
+C:\Users\Owner\Downloads\Me-main\Me-main\ProjectTAG ver0.2\Console1\bin\Debug\net7.0\Console1.runtimeconfig.json
+C:\Users\Owner\Downloads\Me-main\Me-main\ProjectTAG ver0.2\Console1\bin\Debug\net7.0\Console1.dll
+C:\Users\Owner\Downloads\Me-main\Me-main\ProjectTAG ver0.2\Console1\bin\Debug\net7.0\Console1.pdb
+C:\Users\Owner\Downloads\Me-main\Me-main\ProjectTAG ver0.2\Console1\bin\Debug\net7.0\en\Console1.resources.dll
+C:\Users\Owner\Downloads\Me-main\Me-main\ProjectTAG ver0.2\Console1\bin\Debug\net7.0\ko\Console1.resources.dll
+C:\Users\Owner\Downloads\Me-main\Me-main\ProjectTAG ver0.2\Console1\obj\Debug\net7.0\en\Console1.resources.dll
+C:\Users\Owner\Downloads\Me-main\Me-main\ProjectTAG ver0.2\Console1\obj\Debug\net7.0\ko\Console1.resources.dll
+C:\Users\Owner\Downloads\Me-main\Me-main\ProjectTAG ver0.2\Console1\obj\Debug\net7.0\Console1.genruntimeconfig.cache
+C:\Users\Owner\Downloads\Me-main\Me-main\ProjectTAG ver0.2\Console1\obj\Debug\net7.0\ref\Console1.dll
+C:\Users\연초고등학교\Desktop\Me-main\ProjectTAG ver0.3\Console1\bin\Debug\net7.0\Console1.exe
+C:\Users\연초고등학교\Desktop\Me-main\ProjectTAG ver0.3\Console1\bin\Debug\net7.0\Console1.deps.json
+C:\Users\연초고등학교\Desktop\Me-main\ProjectTAG ver0.3\Console1\bin\Debug\net7.0\Console1.runtimeconfig.json
+C:\Users\연초고등학교\Desktop\Me-main\ProjectTAG ver0.3\Console1\bin\Debug\net7.0\Console1.dll
+C:\Users\연초고등학교\Desktop\Me-main\ProjectTAG ver0.3\Console1\bin\Debug\net7.0\Console1.pdb
+C:\Users\연초고등학교\Desktop\Me-main\ProjectTAG ver0.3\Console1\bin\Debug\net7.0\en\Console1.resources.dll
+C:\Users\연초고등학교\Desktop\Me-main\ProjectTAG ver0.3\Console1\bin\Debug\net7.0\ko\Console1.resources.dll
+C:\Users\연초고등학교\Desktop\Me-main\ProjectTAG ver0.3\Console1\obj\Debug\net7.0\Console1.Languages.lang.en.resources
+C:\Users\연초고등학교\Desktop\Me-main\ProjectTAG ver0.3\Console1\obj\Debug\net7.0\Console1.Languages.lang.ko.resources
+C:\Users\연초고등학교\Desktop\Me-main\ProjectTAG ver0.3\Console1\obj\Debug\net7.0\Console1.csproj.GenerateResource.cache
+C:\Users\연초고등학교\Desktop\Me-main\ProjectTAG ver0.3\Console1\obj\Debug\net7.0\Console1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\연초고등학교\Desktop\Me-main\ProjectTAG ver0.3\Console1\obj\Debug\net7.0\Console1.AssemblyInfoInputs.cache
+C:\Users\연초고등학교\Desktop\Me-main\ProjectTAG ver0.3\Console1\obj\Debug\net7.0\Console1.AssemblyInfo.cs
+C:\Users\연초고등학교\Desktop\Me-main\ProjectTAG ver0.3\Console1\obj\Debug\net7.0\Console1.csproj.CoreCompileInputs.cache
+C:\Users\연초고등학교\Desktop\Me-main\ProjectTAG ver0.3\Console1\obj\Debug\net7.0\en\Console1.resources.dll
+C:\Users\연초고등학교\Desktop\Me-main\ProjectTAG ver0.3\Console1\obj\Debug\net7.0\ko\Console1.resources.dll
+C:\Users\연초고등학교\Desktop\Me-main\ProjectTAG ver0.3\Console1\obj\Debug\net7.0\Console1.dll
+C:\Users\연초고등학교\Desktop\Me-main\ProjectTAG ver0.3\Console1\obj\Debug\net7.0\refint\Console1.dll
+C:\Users\연초고등학교\Desktop\Me-main\ProjectTAG ver0.3\Console1\obj\Debug\net7.0\Console1.pdb
+C:\Users\연초고등학교\Desktop\Me-main\ProjectTAG ver0.3\Console1\obj\Debug\net7.0\Console1.genruntimeconfig.cache
+C:\Users\연초고등학교\Desktop\Me-main\ProjectTAG ver0.3\Console1\obj\Debug\net7.0\ref\Console1.dll
